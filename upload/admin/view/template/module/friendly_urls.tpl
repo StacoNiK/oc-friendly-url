@@ -22,37 +22,37 @@
       
       <div class="panel-body">
         <ul class="nav nav-tabs">
-          <li class="active"><a href="#product" data-toggle="tab">Product</a></li>
-          <li><a href="#category" data-toggle="tab">Category</a></li>
-          <li><a href="#information" data-toggle="tab">Information</a></li>
-          <li><a href="#manufacturer" data-toggle="tab">Manufacturer</a></li>
+          <li class="active"><a href="#product" data-toggle="tab">Продукты</a></li>
+          <li><a href="#category" data-toggle="tab">Категории</a></li>
+          <li><a href="#information" data-toggle="tab">Страницы</a></li>
+          <li><a href="#manufacturer" data-toggle="tab">Производители</a></li>
         </ul>
         
         <div class="tab-content">
           <div class="tab-pane active" id="product">
             
-            <button type="button" class="btn btn-primary" id="button-product" data-loading-text="<?php echo $text_loading ?>">Create Friendly URLs</button>
+            <button type="button" class="btn btn-primary" id="button-product" data-loading-text="<?php echo $text_loading ?>">Создать SEO URL</button>
           
             <div class="well" style="margin-top:20px;min-height:150px"></div>
           </div>
           
           <div class="tab-pane" id="category">
             
-            <button type="button" class="btn btn-primary" id="button-category" data-loading-text="<?php echo $text_loading ?>">Create Friendly URLs</button>
+            <button type="button" class="btn btn-primary" id="button-category" data-loading-text="<?php echo $text_loading ?>">Создать SEO URL</button>
           
             <div class="well" style="margin-top:20px;min-height:150px"></div>
           </div>
           
           <div class="tab-pane" id="information">
             
-            <button type="button" class="btn btn-primary" id="button-information" data-loading-text="<?php echo $text_loading ?>">Create Friendly URLs</button>
+            <button type="button" class="btn btn-primary" id="button-information" data-loading-text="<?php echo $text_loading ?>">Создать SEO URL</button>
           
             <div class="well" style="margin-top:20px;min-height:150px"></div>
           </div>
           
           <div class="tab-pane" id="manufacturer">
             
-            <button type="button" class="btn btn-primary" id="button-manufacturer" data-loading-text="<?php echo $text_loading ?>">Create Friendly URLs</button>
+            <button type="button" class="btn btn-primary" id="button-manufacturer" data-loading-text="<?php echo $text_loading ?>">Создать SEO URL</button>
           
             <div class="well" style="margin-top:20px;min-height:150px"></div>
           </div>
